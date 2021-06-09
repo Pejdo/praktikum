@@ -4,8 +4,8 @@
   "description": "TDD demo scripts",
   "main": "index.js",
   "scripts": {
-    "test": "mocha src/**/**.spec.js",
-    "watch": "mocha --watch src/**/**.spec.js"
+    "test": "mocha src/**/forEach.js",
+    "watch": "mocha --watch src/**/Mapa.js"
   },
   "keywords": [
     "tdd"
